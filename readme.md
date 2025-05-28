@@ -121,29 +121,63 @@ Initially, we tried to cover all of our users needs, offering them with all the 
 
 Home.
 
-![Home](./files/mockups/Home.png)
+![Home](./files/mockups/Inicio.png)
 
-Add Plant.
+Register Account.
 
-![Add Plant](./files/mockups/Add%20Plant.png)
+![Register Account](./files/mockups/Registrar_Cuenta.png)
 
-Recent.
+Login.
 
-![Recent](./files/mockups/Recent.png)
+![Login](./files/mockups/iniciar_sesion.png)
 
-Information.
+Main page.
 
-![Information](./files/mockups/Information.png)
+![Main page](./files/mockups/Pagina_principal.png)
 
-Photo Scan.
+Recommended products.
 
-![Photo Scan](./files/mockups/Photo%20Scan.png)
+![Recommended products](./files/mockups/productos_para_ti.png)
 
-Identify Plant.
+Product.
 
-![Identify Plant](./files/mockups/Identify%20Plant.png)
+![Product](./files/mockups/Producto.png)
 
-Profile.
+Product Extra Info.
 
-![Profile](./files/mockups/Profile.png)
+![Product Extra Info](./files/mockups/Informacion_nutricional.png)
 
+Categories
+![Categories](./files/mockups/categorias.png)
+
+Personalized Package
+
+![Personalized Package](./files/mockups/Caja_Personalizada.png)
+
+Shopping Cart
+
+![Shopping Cart](./files/mockups/Carro_compra.png)
+
+Suggestion Shopping Cart
+
+![Suggestion Shopping Cart](./files/mockups/Sugerencia_Compra_Carrito.png)
+
+Transaction details
+
+![Transaction details](./files/mockups/Ver_Detalle.png)
+
+Shopping History
+
+![Shopping History](./files/mockups/historial_compra_hi.png)
+
+Post-payment view
+![Post-payment view](./files/mockups/Vista_Post-compra.png)
+
+User Profile
+![User Profile](./files/mockups/Perfil_de_Usuario.png)
+
+System Config
+![System Config](./files/mockups/Ajustes_del_Sistema.png)
+
+Accesibility config
+![Accesibility config](./files/mockups/Ajustes_del_Sistema.png)
