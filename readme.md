@@ -12,12 +12,8 @@ Shopping application for groceries and general items.
 - [5. Benchmark](#5-Benchmark)
 - [6. Customer Journey Map](#6-customer-journey-map)
 - [7. Navigation](#7-Navigation)
-  - [7.1. Initial Aporach](#71-first-aproach)
-  - [7.2. Improved Navigation](#72-improved-navigation)
 - [8. Wireframes](#8-wireframes)
 - [9. Mockups](#9-mockups)
-  - [9.1. Initial Aproach](#91-initial-aproach)
-  - [9.2. Improved Mockups](#92-improved-mockups)
 
 ---
 
