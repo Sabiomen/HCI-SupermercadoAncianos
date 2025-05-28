@@ -7,7 +7,7 @@ Shopping application for groceries and general items.
 
 - [1. Introduction](#1-introduction)
 - [2. Team](#2-Team)
-- [3. Strategy](#3-strategy)
+- [3. Value Proposition Canvas](#3-value-proposition-canvas)
 - [4. Solutions Scope](#4-solutions-scope)
 - [5. Benchmark](#5-Benchmark)
 - [6. Customer Journey Map](#6-customer-journey-map)
