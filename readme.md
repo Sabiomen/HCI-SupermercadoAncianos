@@ -173,7 +173,7 @@ Shopping History
 ![Shopping History](./files/mockups/historial_compra_hi.png)
 
 Post-payment view
-![Post-payment view](./files/mockups/Vista_Post-Compra.png)
+![Post-payment view](./files/mockups/post-purchase-view.png)
 
 User Profile
 ![User Profile](./files/mockups/Perfil_de_Usuario.png)
