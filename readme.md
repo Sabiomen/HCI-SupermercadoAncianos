@@ -131,7 +131,7 @@ Register Account.
 
 Login.
 
-![Login](./files/mockups/iniciar_sesion.png)
+![login](./files/mockups/login.png)
 
 Main page.
 
@@ -150,7 +150,7 @@ Product Extra Info.
 ![Product Extra Info](./files/mockups/Informacion_nutricional.png)
 
 Categories
-![Categories](./files/mockups/categorias.png)
+![Categories](./files/mockups/Categoria.png)
 
 Personalized Package
 
@@ -173,7 +173,7 @@ Shopping History
 ![Shopping History](./files/mockups/historial_compra_hi.png)
 
 Post-payment view
-![Post-payment view](./files/mockups/Vista_Post-compra.png)
+![Post-payment view](./files/mockups/Vista_Post-Compra.png)
 
 User Profile
 ![User Profile](./files/mockups/Perfil_de_Usuario.png)
