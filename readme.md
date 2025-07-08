@@ -183,3 +183,74 @@ System Config
 
 Accesibility config
 ![Accesibility config](./files/mockups/Ajustes_del_Sistema.png)
+
+## 10. Improved Mockups
+
+As we update our mocks taking the feedback given to us to consideration, we found that most of the problems were things like positioning, margins and the purpose of the view itself, so we've strived to make the views as clear as possible as to what their purpose is, the hotspots that we incentivize the customer to focus on and to ease their navegability through our application:
+
+Here are the views who had changes made on them:
+
+Register Account
+![Register Account](./files/mockups/mockupsv2/Registrar%20Cuenta.png)
+
+A return button was added on the top left
+
+Main Page
+![Main Page](./files/mockups/mockupsv2/Pagina%20principal.png)
+The text on the header was 
+
+Recommended Products
+![Recommended Products](./files/mockups/mockupsv2/productos%20para%20ti.png)
+
+Product View
+![Product View](./files/mockups/mockupsv2/Producto.png)
+
+Personalized Package
+![Personalized Package](./files/mockups/mockupsv2/Caja%20Personalizada.png)
+
+Shopping Cart
+![Shopping Cart](./files/mockups/mockupsv2/Carro%20compra%20M.png)
+
+Suggested Products
+![Suggested Products](./files/mockups/mockupsv2/Sugerencia%20Compra%20Carrito%20M.png)
+
+Transaction Details
+![Transaction Details](./files/mockups/mockupsv2/Ver%20Detalle%20M.png)
+
+Purchase History
+![Purchase History](./files/mockups/mockupsv2/M%20Historial%20De%20Compra.png)
+
+Post-Payment View
+![Post-Payment View](./files/mockups/mockupsv2/Vista%20Post-Compra.png)
+
+User Profile
+![User Profile](./files/mockups/mockupsv2/Perfil%20de%20Usuario.png)
+
+System Settings
+![System Settings](./files/mockups/mockupsv2/Ajustes%20del%20Sistema.png)
+
+Accesibility settings
+![Accesibility Settings](./files/mockups/mockupsv2/Ajustes%20de%20Accesibilidad.png)
+
+
+## 11. New Mockups
+
+In order to take into consideration a few uses we missed before, we've also implemented new views. that'll make the user experience of our project more complete and satisfying:
+
+Category - Groceries
+![Category - Groceries](./files/mockups/mockupsv2/Categoria%20Despensa.png)
+
+Category - Fruits and Greens
+![Category - Fruits and Greens](./files/mockups/mockupsv2/Categoria%20Frutas%20y%20Verduras.png)
+
+Category - Meat and Fish
+![Category - Meatn and Fish](./files/mockups/mockupsv2/Categoria%20Carnes%20y%20pescados.png)
+
+Personalized Bag
+![Personalized Bag](./files/mockups/mockupsv2/Bolsa%20Personalizada.png)
+
+Order Tracker
+![Order Tracker](./files/mockups/mockupsv2/Seguimiento%20Pedido.png)
+
+Virtual Assistant
+![Virtual Assistant](./files/mockups/mockupsv2/Asistente%20Virtual.png)
