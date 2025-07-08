@@ -191,15 +191,20 @@ As we update our mocks taking the feedback given to us to consideration, we foun
 Here are the views who had changes made on them:
 
 Register Account
+
+A return button was added on the top left in order to let the user return to the previous view more easily
 ![Register Account](./files/mockups/mockupsv2/Registrar%20Cuenta.png)
 
-A return button was added on the top left
 
 Main Page
+
+The text on the header was compacted and simplified in order to avoid making it look bloated
 ![Main Page](./files/mockups/mockupsv2/Pagina%20principal.png)
-The text on the header was 
+
 
 Recommended Products
+
+
 ![Recommended Products](./files/mockups/mockupsv2/productos%20para%20ti.png)
 
 Product View
