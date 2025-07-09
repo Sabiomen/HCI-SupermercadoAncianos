@@ -3,6 +3,10 @@
 User experience study for Supermarket with a focus on Senior Citizens App
 Shopping application for groceries and general items.
 
+Figma Link: https://www.figma.com/design/wkaun5jrjLOKsvyPtRVLMm/Wireframes-Supermercado-para-Adultos-Mayores?node-id=164-326&t=qvxzBI5FAZWja7tZ-1
+
+Presentation Link: https://www.canva.com/design/DAGsbcj7Mrw/6SXwcO6T-t2MwRu3Om-UKg/edit?utm_content=DAGsbcj7Mrw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## Index
 
 - [1. Introduction](#1-introduction)
