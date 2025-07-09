@@ -204,37 +204,57 @@ The text on the header was compacted and simplified in order to avoid making it 
 
 Recommended Products
 
-
+The personalized package and bag were moved up, in order to emphasize them more, considering they are one of the main features of our app
 ![Recommended Products](./files/mockups/mockupsv2/productos%20para%20ti.png)
 
 Product View
+
+The buttons on the product view were made more obvious
 ![Product View](./files/mockups/mockupsv2/Producto.png)
 
 Personalized Package
+
+The view has been expanded to be more descriptive it showcases the items on the package itself
 ![Personalized Package](./files/mockups/mockupsv2/Caja%20Personalizada.png)
 
 Shopping Cart
+
+The method for removing items has been revamped in order to make it be more clear on how to individually remove an item
 ![Shopping Cart](./files/mockups/mockupsv2/Carro%20compra%20M.png)
 
 Suggested Products
+
+The font on the view has been made bigger for easier readability
 ![Suggested Products](./files/mockups/mockupsv2/Sugerencia%20Compra%20Carrito%20M.png)
 
 Transaction Details
+
+The font on the view has been madae bigger for easier readability and the buttons were moved outside the main container
 ![Transaction Details](./files/mockups/mockupsv2/Ver%20Detalle%20M.png)
 
 Purchase History
+
+The font on the view has been made bigger, and the filter button has been given functionality
 ![Purchase History](./files/mockups/mockupsv2/M%20Historial%20De%20Compra.png)
 
 Post-Payment View
+
+The font on the view has been made bigger, and more buttons have been added to make it be able to move to the tracking of the order
 ![Post-Payment View](./files/mockups/mockupsv2/Vista%20Post-Compra.png)
 
 User Profile
+
+The entire view has been revamped in order to make it look both more compact and user friendly
 ![User Profile](./files/mockups/mockupsv2/Perfil%20de%20Usuario.png)
 
 System Settings
+
+The view has been revamped and centered in order to cater to the touch zone concepts
 ![System Settings](./files/mockups/mockupsv2/Ajustes%20del%20Sistema.png)
 
 Accesibility settings
+
+The view has been revamped and centered in order to cater to the touch zone concepts
 ![Accesibility Settings](./files/mockups/mockupsv2/Ajustes%20de%20Accesibilidad.png)
 
 
@@ -243,19 +263,31 @@ Accesibility settings
 In order to take into consideration a few uses we missed before, we've also implemented new views. that'll make the user experience of our project more complete and satisfying:
 
 Category - Groceries
+
+The view has been added in order to give more of a sense of how some of these extra views would look
 ![Category - Groceries](./files/mockups/mockupsv2/Categoria%20Despensa.png)
 
 Category - Fruits and Greens
+
+The view has been added in order to give more of a sense of how some of these extra views would look
 ![Category - Fruits and Greens](./files/mockups/mockupsv2/Categoria%20Frutas%20y%20Verduras.png)
 
 Category - Meat and Fish
+
+The view has been added in order to give more of a sense of how some of these extra views would look
 ![Category - Meatn and Fish](./files/mockups/mockupsv2/Categoria%20Carnes%20y%20pescados.png)
 
 Personalized Bag
+
+The view has been added in order to complete both of the personalized features of our app
 ![Personalized Bag](./files/mockups/mockupsv2/Bolsa%20Personalizada.png)
 
 Order Tracker
+
+This view has been added in order to finish the shopping cart - payment flow
 ![Order Tracker](./files/mockups/mockupsv2/Seguimiento%20Pedido.png)
 
 Virtual Assistant
+
+This view has been added because it's a core feature of our app
 ![Virtual Assistant](./files/mockups/mockupsv2/Asistente%20Virtual.png)
